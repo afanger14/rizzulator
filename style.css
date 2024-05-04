@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:ital,wght@1,300&family=Rubik+Pixels&display=swap');
+
 
 .calculator {
 	max-width: 500px;
@@ -50,7 +50,7 @@ button {
 	color: #f5f5f5;
 	font-size: 20px;
 	cursor: pointer;
-	font-family: "Tahoma";
+	font-family: "Trebuchet MS";
 }
 
 button:hover {
@@ -65,7 +65,7 @@ button:hover {
 }
 
 body {
-    font-family: 'Tahoma', cursive;
+    font-family: 'Trebuchet MS', cursive;
 }
 html {background-color: #000;
 
